@@ -28,6 +28,6 @@
    "errorTextColor":"#ff6461",
    "mentionHighlightBg":"#3d414f",
    "mentionHighlightLink":"#6e84d2",
-   "codeTheme":"discord-dark"
+   "codeTheme":"monokai"
 }
 ```
