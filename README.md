@@ -1,6 +1,6 @@
-# Discord Dark theme for Mattermost
+# Discord Dark Theme for Mattermost
 
-![Discord Dark theme Preview](/discord_dark_theme.png)
+![Discord Dark Theme Preview](/discord_dark_theme.png)
 
 
 ```json
