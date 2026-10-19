@@ -19,7 +19,6 @@ The new dark theme for Mattermost, using the latest Discord theme coloring schem
     "awayIndicator": "#ca9654",
     "dndIndicator": "#d83a42",
     "mentionBg": "#6e84d2",
-    "mentionBj": "#6e84d2",
     "mentionColor": "#ffffff",
     "centerChannelBg": "#1a1a1e",
     "centerChannelColor": "#efeff0",
@@ -29,7 +28,7 @@ The new dark theme for Mattermost, using the latest Discord theme coloring schem
     "buttonColor": "#ffffff",
     "errorTextColor": "#ff6461",
     "mentionHighlightBg": "#a4850f",
-    "mentionHighlightLink": "#a4850f",
+    "mentionHighlightLink": "#1a1a1e",
     "codeTheme": "monokai"
 }
 ```
@@ -56,7 +55,6 @@ This was the old Discord inspired Dark Theme for Mattermost.
     "awayIndicator": "#faa61a",
     "dndIndicator": "#f04747",
     "mentionBg": "#6e84d2",
-    "mentionBj": "#6e84d2",
     "mentionColor": "#ffffff",
     "centerChannelBg": "#36393f",
     "centerChannelColor": "#dddddd",
